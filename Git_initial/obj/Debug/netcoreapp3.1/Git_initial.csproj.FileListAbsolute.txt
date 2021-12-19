@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.exe
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.deps.json
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.runtimeconfig.json
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.runtimeconfig.dev.json
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.dll
+C:\Users\pc\Desktop\python\Git_initial\bin\Debug\netcoreapp3.1\Git_initial.pdb
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.AssemblyInfo.cs
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.dll
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.pdb
+C:\Users\pc\Desktop\python\Git_initial\obj\Debug\netcoreapp3.1\Git_initial.genruntimeconfig.cache
