@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mürüvvet
-- 👀 I’m interested in programming in aviation.
-- 🌱 I’m currently learning ASP.NET Core, C#, Python and so on.
+- 👋 Hi, I’m Mürüvvet.
+- 👀 I’m interested in programming in aviation field.
+- 🌱 I’m currently trying to learn ASP.NET Core, C#, Python and so on.
 - 💞️ I’m looking to collaborate on sharing experiences and knowledge about aviation software.
 - 📫 You can reach me via kurt.mrvvt@gmail.com
 
